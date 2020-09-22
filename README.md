@@ -1,4 +1,36 @@
-Role Name
+![Contributors](https://img.shields.io/github/contributors/desainis/aws-asg)
+![Forks](https://img.shields.io/github/forks/desainis/aws-asg)
+![Stargazers](https://img.shields.io/github/stars/desainis/aws-asg)
+![Issues](https://img.shields.io/github/issues/desainis/aws-asg)
+![MIT License](https://img.shields.io/github/license/desainis/aws-asg)
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/desainis/aws-asg">
+    <img src="https://vuejs.org/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://www.ansible.com/hubfs/2016_Images/Assets/Ansible-Mark-Large-RGB-Mango.png?hsLang=en-us" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Todos App</h3>
+
+  <p align="center">
+    This sample web application is used to demonstrate how to manage complex AWS Architectures using Ansible.
+    <br />
+    <a href="https://github.com/desainis/aws-asg"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/desainis/aws-asg">View Demo</a>
+    ·
+    <a href="https://github.com/desainis/aws-asg/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/desainis/aws-asg/issues">Request Feature</a>
+  </p>
+</p>
+
+------------
+
+Ansible Role: aws-asg
 =========
 
 A brief description of the role goes here.
